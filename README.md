@@ -2,6 +2,8 @@
 
 This is my very first RAG
 
+Here's the overview of the steps
+
 UNSTRUCTURED - https://docs.unstructured.io/welcome
  > For fetching the information
 
